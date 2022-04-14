@@ -1,7 +1,7 @@
 # Stock Market Predictions
 
 ## Using LSTM
-The model is made up of LSTM cells, it gives an accuracy of about 99.3%. 
+The model is made up of LSTM cells, which gives an accuracy of about 99.3%. 
 Changes can be made in file LSTM(Predictions).ipynb as per the use, like epochs can be changed, stock indexes can be changed.
 
 ## Using LSTM-GRU
